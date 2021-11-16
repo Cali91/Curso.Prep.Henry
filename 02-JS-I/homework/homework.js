@@ -24,7 +24,7 @@ const nuevoModulo = 21 % 5 === null;
 // Asegúrate que usas "return" cuando la consola te lo pida.
 // Pista: "console.log()" NO fucionará.
 // No cambies los nombres de las funciones.
-
+"hola"
 function devolverString(str) {
   // "Return" la string provista: str
   // Tu código:
